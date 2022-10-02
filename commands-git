@@ -8,4 +8,5 @@ git branch -M 'nom de branche'
 git push -u origin 'nom de branche'
 commande pull:
 git pull 'remote' 'branche'
-
+commande pour creer une branche:
+git branch 'nom de branche'
