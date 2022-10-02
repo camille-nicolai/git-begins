@@ -7,7 +7,5 @@ git remote add origin git@github.com:'user/repository'
 git branch -M 'nom de branche'
 git push -u origin 'nom de branche'
 commande pull:
-git pull
-ou git fetch  puis hit merge
-options <remote> pour les copies de branche
-git pull --rebase origin pour synchro
+git pull 'remote' 'branche'
+
