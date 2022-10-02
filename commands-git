@@ -1,0 +1,8 @@
+commande git: cloner un repo : 
+git init
+git clone 'chemin'
+
+commande push:
+git remote add origin git@github.com:'user/repository'
+git branch -M 'nom de branche'
+git push -u origin 'nom de branche'
